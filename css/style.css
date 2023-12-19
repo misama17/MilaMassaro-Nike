@@ -537,6 +537,10 @@ h3 a {
     color: orangered;
 }
 
+h3 a:hover {
+    color: white;
+}
+
 footer p {
     text-align: center;
 }
